@@ -16,6 +16,10 @@
 --Grey900: #141414;
 }
 
+body,  HTML {
+    height: 100vh;
+}
+
 body {
     background-color: var(--Grey900);
     height: 100vh;
